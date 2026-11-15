@@ -1,0 +1,10 @@
+{
+  "apiBase": "https://api.shipline.example",
+  "internalApiBase": "https://admin-internal.shipline.example",
+  "region": "us-east-1",
+  "userPoolId": "us-east-1_EXAMPLE01",
+  "userPoolClientId": "4exampleclientid0000000000",
+  "identityPoolId": "us-east-1:00000000-aaaa-bbbb-cccc-000000000000",
+  "adminApiToken": "shp_admin_EXAMPLE_0f3b9c1d7a",
+  "features": { "adminConsolePath": "/ops/console" }
+}

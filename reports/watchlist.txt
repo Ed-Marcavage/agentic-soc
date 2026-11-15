@@ -1,0 +1,14 @@
+# Attacker-agent frameworks and harnesses to watch for in report entities.
+# One name per line. A report naming any of these is kept even when the
+# catalog rates its agent relevance low.
+ARTEX
+ScopeWeaver
+AntiFox
+CyberStrikeAI
+Cairn
+PentAGI
+HexStrike AI
+Hermes Agent
+Hephaestus
+PentestGPT
+norma

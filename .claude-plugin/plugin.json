@@ -1,0 +1,9 @@
+{
+  "name": "agentic-soc",
+  "description": "Security review and log-hunting skills built from current reports of attacker agents in real intrusions. Updated weekly.",
+  "version": "0.1.0",
+  "author": { "name": "Ed Marcavage" },
+  "homepage": "https://paperswithcode-cyber.com",
+  "license": "MIT",
+  "keywords": ["security", "soc", "agentic-soc", "code-review", "threat-hunting", "detection"]
+}

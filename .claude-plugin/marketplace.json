@@ -1,0 +1,11 @@
+{
+  "name": "agentic-soc",
+  "owner": { "name": "Ed Marcavage" },
+  "plugins": [
+    {
+      "name": "agentic-soc",
+      "source": "./",
+      "description": "Security review and log-hunting skills built from current reports of attacker agents in real intrusions. Updated weekly."
+    }
+  ]
+}
